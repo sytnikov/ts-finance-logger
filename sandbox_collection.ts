@@ -54,3 +54,11 @@ let ninjaTwo: {
 }
 
 ninjaTwo = { name: 'mario', age: 30, beltColor: 'black'}
+
+// any type
+
+let age: any;
+
+let mixe2: any[] = [];
+
+let ninja2: { name: any, age: any};
