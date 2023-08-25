@@ -62,3 +62,4 @@ let age: any;
 let mixe2: any[] = [];
 
 let ninja2: { name: any, age: any};
+
